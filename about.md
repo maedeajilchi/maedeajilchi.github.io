@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm in my third year of studies toward a bachelor's in computer engineering at sadjad university of technology in Mashhasd .
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+maedehajilchi@gmail.com
