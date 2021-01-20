@@ -1,6 +1,8 @@
 ---
 layout: post
-title: hello guys!
+title: Hi guys!
 published: true
 ---
-## this is my new website through github to learn more things I hope you like it.
+## welcome to Github pages
+
+I create my first website on Github pages.
